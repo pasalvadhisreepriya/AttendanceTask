@@ -1,0 +1,4 @@
+Employee Name,Leave Type,Start Date,End Date,Leave Duration,Leave Status
+John Smith (EMP001)  ,Sick Leave,6/13/2023,6/13/2023,Full Day,Approved
+Emily Johnson(EMP002)  ,Causal Leave,6/16/2023,6/16/2023,Half day,Approved
+Michael Brown(EMP003)   ,Earned Leave,6/22/2023,6/22/2023,Full Day,Approved
