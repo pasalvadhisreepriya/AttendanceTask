@@ -1,0 +1,23 @@
+Prompt 1 :-
+
+Generate the csv format file of attendance list of june month for 3 employees and the required fields are Employee ID, Date, Time-in, Time-Out and total hours worked. The sheet should generate random time in and time out hours and maximum working hours should be 9hours. Generate Saturday and Sunday as Weekend and weekend hours should be marked as Zero.
+
+Response :- Emp_Attendance_June.csv File
+
+Prompt 2 :- 
+
+Generate the csv format file for the leaves of the 3 employees of the june month and the required fields are Employee Name, Leave type, Start Date, End Date, Leave Duration and Leave Status.
+
+Response :- Emp_Leave.csv File
+
+Prompt 3 :-
+
+Generate the Holiday Calendar for the corporate company for the year 2023 with the fields Date, Day, Holiday Name, Type.
+
+Response :- Emp_Holiday.csv File 
+
+prompt 4 :- 
+
+Generate the csv format file of attendance list for 3 employees of june month by calculating the total working hours of the 3 employees excluding the leaves and weekends. Check whether the leaves are approved or not and check the holiday list.
+
+Response :- Emp_Attendance_Result_Calc.csv File
